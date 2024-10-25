@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS Sandy</string>
+    <string name="masukkan_panjang_alas">Masukkan panjang alas segitiga</string>
+    <string name="masukkan_tinggi_segitiga">Masukkan tinggi segitiga</string>
+    <string name="masukkan_tinggi_prisma">Masukkan tinggi prisma</string>
+    <string name="hitung">Hitung</string>
+    <string name="mohon_masukkan_angka_valid">Mohon masukkan angka yang valid</string>
+    <string name="luas_permukaan">Luas Permukaan: %.2f</string>
+    <string name="volume">Volume: %.2f</string>
+</resources>
